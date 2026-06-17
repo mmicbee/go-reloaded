@@ -5,7 +5,10 @@ import "fmt"
 func main () {
 	word :="hello"
 
-	fmt.PrintIn(Capitalize(word))
-	fmt.PrintIn(ToUpper(word))
-	fmt.PrintIn(ToLower("WORLD"))
+	fmt.Println("hello")
+(Capitalize(word))
+	fmt.Println("hello")
+(ToUpper(word))
+	fmt.Println("hello")
+(ToLower("WORLD"))
 }
