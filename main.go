@@ -3,12 +3,12 @@ package main
 import "fmt"
 
 func main () {
-	word :="hello"
+	word :="you are a prude"
 
-	fmt.Println("hello")
+	fmt.Println("you are a prude")
 (Capitalize(word))
-	fmt.Println("hello")
+	fmt.Println("you are a prude")
 (ToUpper(word))
-	fmt.Println("hello")
-(ToLower("WORLD"))
+	fmt.Println("you are a prude")
+(ToLower("DUMBASS"))
 }
